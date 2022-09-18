@@ -8,7 +8,7 @@ An automated system is introduced to identify different diseases on plants by ch
 
 TEAM MEMBERS:Dharshini S,Deepthi M,Bala Harshithaa B,Debbana G
 
-![image](https://user-images.githubusercontent.com/53814728/190921744-88ac2264-fa2b-4ed6-820b-c848a9eb6d0d.png)
+![image](https://user-images.githubusercontent.com/53814728/190921825-9a81f4de-e7d8-40fe-bc29-7bfd74afaa20.png)
 
 
                                     
