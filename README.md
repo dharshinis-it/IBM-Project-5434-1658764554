@@ -4,5 +4,7 @@ Fertilizers Recommentation System For Disease Prediction
 
 An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
 
+#TEAM MEMBERS:Dharshini S,Deepthi M,Bala Harshithaa B,Debbana G
+
 
                                     
