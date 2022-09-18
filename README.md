@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1fw5tcyHv0CN63WMmReUiKlnkHMNHFWdy/view?usp=sharing
+![image](https://drive.google.com/file/d/1fw5tcyHv0CN63WMmReUiKlnkHMNHFWdy/view?usp=sharing)
 
 Fertilizers Recommentation System For Disease Prediction
 
